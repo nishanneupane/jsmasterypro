@@ -9,7 +9,7 @@ const Header = ({ type, query, category }: HeaderParams) => {
     if (query && category) {
         return (
             <h1 className='heading3 self-start text-white-800'>
-                Search result for "{query}" in {type} 
+                Search result for &quot;{query}&ldquo; in {type} 
                 <span className='capitalize'> {category}</span>
             </h1>
         )
