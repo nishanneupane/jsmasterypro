@@ -17,7 +17,7 @@ const Header = ({ type, query, category }: HeaderParams) => {
     if(query){
         return (
             <h1 className='heading3 self-start text-white-800'>
-                Search result for "{query}" 
+                Search result for &quot;{query}&ldquo;
             </h1>
         )
     }
