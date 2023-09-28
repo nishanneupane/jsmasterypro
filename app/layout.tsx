@@ -11,10 +11,10 @@ export const metadata: Metadata = {
   other: {
     'theme-color': "#00d1117",
     'color-scheme': "dark only",
-    "twitter-image": "https://jsmasterypro-web.vercel.app/jsm-logo.svg",
+    "twitter-image": "https://learnovate.vercel.app/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2Fea8f234e-06bf-4c38-8b1c-2c12bee47280-kp3e16.jpg&w=1920&q=75",
     "twitter-card": "summary_large_image",
     "og:url": "jsmasterypro-web.vercel.app",
-    "og:image": "https://jsmasterypro-web.vercel.app/jsm-logo.svg",
+    "og:image": "https://learnovate.vercel.app/_next/image?url=https%3A%2F%2Futfs.io%2Ff%2Fea8f234e-06bf-4c38-8b1c-2c12bee47280-kp3e16.jpg&w=1920&q=75",
     "og:type": "website"
   }
 }
